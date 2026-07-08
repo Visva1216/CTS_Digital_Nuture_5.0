@@ -13,7 +13,7 @@ public class SpringLearnApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(SpringLearnApplication.class, args);
+		SpringApplication.run(SpringLearnApplication.class,args);
 		logger.info("Spring Learn Application started.");
 	}
 

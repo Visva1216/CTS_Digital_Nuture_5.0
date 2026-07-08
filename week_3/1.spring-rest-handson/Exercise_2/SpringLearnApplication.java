@@ -22,7 +22,7 @@ public class SpringLearnApplication {
 	}
 
 	private static void displayCountry(){
-		logger.info("START: displayCountry()");
+		logger.info("START: displayCountry() ");
 
 		ApplicationContext context = new ClassPathXmlApplicationContext("country.xml");
 

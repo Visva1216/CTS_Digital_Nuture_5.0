@@ -12,6 +12,6 @@ public class SpringLearnJwtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringLearnJwtApplication.class, args);
-		LOGGER.info("Spring Learn JWT Application started.");
+		LOGGER.info("Spring  Learn JWT Application started.");
 	}
 }

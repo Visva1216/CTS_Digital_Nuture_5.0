@@ -16,7 +16,7 @@ public class HelloController {
 
         String message = "Hello, World!!";
 
-        logger.info("END: sayHello()");
+        logger.info("END: sayHello() ");
         return message;
     }
 }

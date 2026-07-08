@@ -22,7 +22,7 @@ public class CountryController {
 
         Country country = (Country) context.getBean("country", Country.class);
 
-        LOGGER.debug("Country returned: {}", country.toString());
+        LOGGER.debug("Country returned:  {}", country.toString());
         LOGGER.info("END: getCountryIndia()");
 
         return country;

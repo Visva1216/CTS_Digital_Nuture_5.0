@@ -15,7 +15,7 @@ public class Country {
     }
 
     public String getCode() {
-        LOGGER.debug("Inside Country.getCode()");
+        LOGGER.debug("Inside Country.getCode() ");
         return code;
     }
 
